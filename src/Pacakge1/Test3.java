@@ -6,5 +6,8 @@ public class Test3 {
 	@Test
 	public void test3() {
 		System.out.println("Third test class");
+		System.out.println("ishaan");
 	}
 }
+
+
